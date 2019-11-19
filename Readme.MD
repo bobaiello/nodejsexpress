@@ -1,3 +1,8 @@
+#nodejsexpress
+
+npm install -g express
+npm install express-generator -g
+
 E:\nodejsexpress>express
 
   warning: the default view engine will not be jade in future releases
